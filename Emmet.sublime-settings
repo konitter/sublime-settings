@@ -1,0 +1,11 @@
+{
+	"snippets": {
+		"variables": {
+			"lang": "ja"
+		},
+	},
+
+	"syntaxProfiles": {
+		"html": "html"
+	}
+}

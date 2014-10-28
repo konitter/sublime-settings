@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Better Completion",
+		"BracketHighlighter",
+		"cdnjs",
+		"ConvertToUTF8",
+		"Emmet",
+		"IMESupport",
+		"InputSequence",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Theme - Flatland"
+	],
+	"repositories":
+	[
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}
