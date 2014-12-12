@@ -7,6 +7,10 @@
 	{ "keys": ["ctrl+tab"], "command": "next_view" },
 	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 
+	// 選択した文字列を1つ戻す、スキップ
+	{ "keys": ["alt+u"], "command": "soft_undo" },
+	{ "keys": ["alt+k"], "command": "find_under_expand_skip" },
+
 	// オートコンプリートを閉じる
 	{ "keys": ["ctrl+["], "command": "hide_auto_complete", "context":
 		[
@@ -26,13 +30,18 @@
 		]
 	},
 
-	// <br>,<br />を挿入
+	// <br>を挿入
 	{ "keys": ["alt+enter"], "command": "insert", "args": {"characters": "<br>\n"} },
-	{ "keys": ["alt+shift+enter"], "command": "insert", "args": {"characters": "<br />\n"} },
 
 	// ソースのトップ・ボトムへの移動
 	{ "keys": ["alt+a"], "command": "move_to", "args": {"to":"bof","extend":false} },
 	{ "keys": ["alt+z"], "command": "move_to", "args": {"to":"eof","extend":false} },
+
+	// クリップボード履歴からペースト
+	{ "keys": ["super+alt+v"], "command": "paste_from_history" },
+
+	// Reindent Linesをコマンドで
+	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false}},
 
 	// ----------------------------------------------------
 	// Plugin

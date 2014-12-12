@@ -1,22 +1,20 @@
 {
-	"auto_complete_triggers":
-	[
-		{
-			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP",
-			"selector": "text, source, meta, string, punctuation, constant"
-		}
-	],
+	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"CSS",
+		"Better Completion"
 	],
 	"line_padding_top": 1,
 	"open_files_in_new_window": true,
 	"shift_tab_unindent": true,
 	"theme": "Flatland Dark.sublime-theme",
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": true
 }

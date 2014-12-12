@@ -5,17 +5,28 @@
 		"AutoFileName",
 		"Better Completion",
 		"BracketHighlighter",
-		"cdnjs",
 		"ConvertToUTF8",
+		"CSS3",
 		"Emmet",
+		"FileDiffs",
 		"IMESupport",
 		"InputSequence",
+		"JavaScript Snippets",
+		"Markdown Extended",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Open URL",
 		"PackageResourceViewer",
 		"SideBarEnhancements",
-		"Theme - Flatland"
+		"Sublime Files",
+		"Tag",
+		"Theme - Flatland",
+		"TrailingSpaces",
+		"View In Browser"
 	],
 	"repositories":
 	[
+		"https://github.com/kazu1107/InputSequence.git",
 		"https://github.com/kazu1107/InputSequence.git"
 	]
 }

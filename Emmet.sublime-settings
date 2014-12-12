@@ -1,11 +1,15 @@
 {
+	"syntaxProfiles": {
+		"html": "html"
+	},
 	"snippets": {
 		"variables": {
 			"lang": "ja"
 		},
-	},
-
-	"syntaxProfiles": {
-		"html": "html"
+		"html": {
+			"abbreviations": {
+				"tr+": "tr>th+td"
+			}
+		}
 	}
 }
