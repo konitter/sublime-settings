@@ -1,0 +1,21 @@
+{
+	"files":
+	{
+		"Modernizr.js": "http://modernizr.com/downloads/modernizr-latest.js",
+		"Normalize.css 3.x": "https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css",
+		"Respond.js": "https://github.com/scottjehl/Respond/blob/master/dest/respond.min.js",
+		"jQuery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"Bootstrap 2.x": "https://github.com/twbs/bootstrap/archive/v2.3.2.zip",
+		"Bootstrap 3.x": "https://github.com/twbs/bootstrap/archive/master.zip",
+		"CSS3PIE": "http://css3pie.com/download-latest",
+		"Foundation 5": "https://github.com/zurb/foundation/archive/master.zip",
+		"Normalize.css 3.x": "https://github.com/necolas/normalize.css/archive/master.zip",
+		"html5-boilerplate": "https://github.com/h5bp/html5boilerplate.com/archive/master.zip",
+		"html5shiv": "https://github.com/aFarkas/html5shiv/archive/master.zip",
+		"jQuery 1.11.x": "https://github.com/jquery/jquery/archive/1.11.1.zip",
+		"jQuery 2.1.x": "https://github.com/jquery/jquery/archive/2.1.1.zip"
+	}
+}

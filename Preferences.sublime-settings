@@ -8,6 +8,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
+		"Sublime Files",
 		"CSS",
 		"Better Completion"
 	],
