@@ -8,9 +8,7 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"Sublime Files",
-		"CSS",
-		"Better Completion"
+		"CSS"
 	],
 	"line_padding_top": 1,
 	"open_files_in_new_window": true,
