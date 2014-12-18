@@ -48,8 +48,5 @@
 	// ----------------------------------------------------
 
 	// Package Control
-	{ "keys": ["super+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Package Control: "} },
-
-	// Emmet -> Merge Lines
-	{ "keys": ["ctrl+shift+m"], "args": {"action": "merge_lines"}, "command": "run_emmet_action" }
+	{ "keys": ["super+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Package Control: "} }
 ]

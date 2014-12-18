@@ -1,8 +1,0 @@
-{
-  "completion_active_list": {
-    // "html": false,
-    "javascript": true,
-    "jquery": true,
-    "jquery-sq": true, // Single Quote
-  }	
-}
