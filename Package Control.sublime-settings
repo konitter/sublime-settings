@@ -1,13 +1,19 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"AlignTab",
 		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
 		"Can I Use",
+		"ChangeQuotes",
+		"Compass",
 		"ConvertJaZenHan",
 		"ConvertToUTF8",
 		"CSS3",
@@ -16,7 +22,10 @@
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
+		"ExpandRegion",
 		"FileDiffs",
+		"FindKeyConflicts",
+		"Gist",
 		"Git",
 		"Google Search",
 		"Hayaku - tools for writing CSS faster",
@@ -27,17 +36,28 @@
 		"jQuery",
 		"jsfmt",
 		"Markdown Extended",
+		"MarkdownEditing",
 		"Monokai Extended",
+		"MultiEditUtils",
 		"Nettuts+ Fetch",
+		"Nodejs",
 		"OmniMarkupPreviewer",
 		"Open URL",
+		"Package Control",
 		"PackageResourceViewer",
 		"Quick File Move",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SCSS Snippets",
 		"SideBarEnhancements",
 		"Smart Delete",
+		"Sublime Files",
 		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
+		"SublimeOnSaveBuild",
 		"Tag",
 		"Terminal",
 		"Theme - Flatland",
@@ -45,6 +65,7 @@
 	],
 	"repositories":
 	[
-		"https://github.com/kazu1107/InputSequence.git"
+		"https://github.com/kazu1107/InputSequence.git",
+		"https://github.com/dburrows/SublimeLinter-contrib-htmlhint"
 	]
 }

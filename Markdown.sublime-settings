@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+
+	// Layout
+	"draw_centered": false,
+	"word_wrap": true,
+    "wrap_width": 0,
+
+	// Line
+	"line_numbers": true,
+	"highlight_line": true,
+
+	// Caret
+    "caret_style": "smooth",
+    "caret_extra_top": 0,
+    "caret_extra_bottom": 0
+}

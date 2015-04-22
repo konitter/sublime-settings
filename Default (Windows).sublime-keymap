@@ -43,10 +43,38 @@
 	// Reindent Linesをコマンドで
 	{ "keys": ["f10"], "command": "reindent", "args": {"single_line": false}},
 
+	// transposeのコマンドがTerminalと被るため他のコマンドに設定
+	{ "keys": ["alt+t"], "command": "transpose" },
+
+	// ファイルの複製をコマンドで
+	{ "keys": ["f11"], "command": "clone_file" },
+
 	// ----------------------------------------------------
 	// Plugin
 	// ----------------------------------------------------
 
 	// Package Control
-	{ "keys": ["super+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Package Control: "} }
+	{ "keys": ["super+alt+p"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Package Control: "} },
+
+	// Sublime-expand-region
+	{ "keys": ["ctrl+shift+space"], "command": "expand_region" },
+
+	// ChangeQuotes
+	{ "keys": ["ctrl+q"], "command": "change_quotes" },
+
+	// Emmet - wrap
+    { "keys": ["alt+g"], "command": "wrap_as_you_type",
+        "context": [
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "setting.is_widget"
+            },
+            {
+                "match_all": true,
+                "key": "emmet_action_enabled.wrap_as_you_type"
+            }
+        ]
+    },
 ]

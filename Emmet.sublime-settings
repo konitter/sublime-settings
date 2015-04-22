@@ -4,7 +4,8 @@
 	},
 	"snippets": {
 		"variables": {
-			"lang": "ja"
+			"lang": "ja",
+			"charset": "utf-8"
 		},
 		"html": {
 			"abbreviations": {

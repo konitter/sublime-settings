@@ -2,3 +2,8 @@
 *.cache
 *.json
 *.last-run
+Gist.sublime-settings
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+SublimeFiles.sublime-settings
